@@ -1,0 +1,10 @@
+torch==1.13.1
+torchvision==0.14.1
+lightning==2.2.4
+scikit-image
+matplotlib
+pyyaml
+ninja
+rich
+omegaconf
+jsonargparse[signatures]>=4.27.7
